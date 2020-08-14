@@ -1,0 +1,1833 @@
+.jimu-widget-search .arcgisSearch .searchBtn {
+    border: none;
+}
+
+.arcgisSearch .searchIcon {
+    width: 20px !important;
+    margin-left: -5px;
+}
+
+.jimu-widget-search .arcgisSearch .searchBtn:focus,
+.jimu-widget-search .arcgisSearch .searchBtn:hover {
+    background-color: #2A4D87;
+}
+
+.jimu-header-more-popup {
+    top: 60px !important;
+    width: 100vw !important;
+    left: 0px !important;
+}
+
+.jimu-header-more-popup .icon-node {
+    width: 60px !important;
+    height: 60px !important;
+    background-color: #2A4D87 !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.jimu-header-more-popup {
+    height: 60px !important;
+    background-color: #2A4D87 !important;
+}
+
+.jimu-header-more-popup .close-inner {
+    background-image: none !important;
+    background-color: transparent !important;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.jimu-header-more-popup .close-inner:before {
+    content: '\f057';
+    color: #ffffff;
+    font-size: 20px;
+}
+
+
+.jimu-header-more-popup .close {
+    position: absolute;
+    top: 25%;
+    margin-top: 3px;
+    right: 10px;
+    border-radius: 0;
+    background-color: transparent !important;
+    cursor: pointer;
+    border: none;
+    background-image: none;
+}
+
+.jimu-header-more-popup .points {
+    display: none;
+}
+
+.jimu-header-more-popup img {
+    width: 30px !important;
+    height: 30px !important;
+    margin: auto;
+    margin-top: 15px;
+    display: block;
+}
+
+.jimu-header-more-popup .pages {
+    padding: 0px !important;
+}
+
+.jimu-header-more-popup .node-label {
+    display: none !important;
+}
+
+.jimu-header-more-popup .icon-node:empty {
+    display: none;
+}
+
+.claro {
+    font-family: 'Open Sans' !important;
+    color: #333;
+    font-size: 14px;
+}
+
+.jimu-widget {
+    font-size: 14px;
+}
+
+.esri-icon-search {
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    display: inline-flex;
+    font-family: 'Font Awesome 5 Free' !important;
+    justify-content: center;
+    padding: 0px !important;
+    align-items: center;
+    margin: 0px;
+}
+
+.esri-icon-search:before {
+    content: "\f002";
+}
+
+.jimu-widget-zoomslider .zoom {
+
+    width: 35px;
+    height: 35px;
+    font-size: 23px;
+}
+
+.jimu-on-screen-widget-panel > .jimu-panel-title > .title-label {
+    background-color: #2A4D87;
+}
+
+.jimu-on-screen-widget-panel > .jimu-panel-title > .btns-container {
+    background-color: #2A4D87;
+}
+
+.jimu-on-screen-widget-panel > .jimu-panel-title, .jimu-foldable-panel > .jimu-panel-title, .jimu-title-panel > .title {
+    background-color: #2A4D87 !important;
+}
+
+.jimu-widget-search .arcgisSearch .searchGroup .searchInputGroup .searchInput {
+    border: none;
+}
+
+.jimu-widget-search.use-absolute .arcgisSearch .searchInputGroup {
+    margin-left: -5px;
+}
+
+.jimu-panel {
+    border: none;
+    border-radius: 0px 0px 0px 0px !important;
+}
+
+.arcgisSearch .searchGroup {
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+}
+
+.jimu-main-background {
+    background-color: #2A4D87;
+}
+
+.jimu-panel {
+    background-color: #ffffff !important;
+}
+
+
+.jimu-widget-attributetable-move {
+    background-color: #2A4D87;
+}
+
+.claro .dijitTabContainerTop-tabs .dijitTabChecked {
+    background-image: none;
+    background-color: #ffffff;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    font-size: 14px;
+}
+
+.claro .dijitToolbar {
+    padding: 6px 0 6px 4px;
+    background-color: #ffffff;
+    background-image: none;
+    border-bottom: none;
+}
+
+
+.jimu-widget-homebutton .HomeButton .home {
+    background-color: #ffffff;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+    border: none;
+}
+
+.jimu-widget-homebutton .HomeButton .home:hover {
+    background-color: #2A4D87;
+    color: #ffffff;
+}
+
+.HomeButton .home:hover {
+    color: #ffffff;
+}
+
+.HomeButton .home:before {
+    content: "\f015";
+
+}
+
+.jimu-widget-homebutton.inHome {
+    background-color: transparent !important;
+}
+
+.jimu-widget-homebutton.inHome .HomeButton .home {
+    background-color: #ffffff;
+}
+
+.jimu-widget-homebutton.inHome .HomeButton .home:hover {
+    background-color: #2A4D87;
+    color: #ffffff;
+}
+
+.HomeButton .home {
+    width: 35px;
+    height: 35px;
+    color: #424242;
+
+    border: none;
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    display: inline-flex !important;
+    justify-content: center;
+    padding: 0px !important;
+    align-items: center;
+    margin: 0px;
+    font-size: 17px;
+}
+
+.jimu-widget-mylocation {
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+    background-color: #ffffff;
+    border: none;
+}
+
+.jimu-widget-mylocation:hover {
+    background-color: #2A4D87;
+}
+
+.jimu-widget-mylocation .place-holder:hover {
+    color: #ffffff;
+    background-color: #2A4D87;
+}
+
+.jimu-widget-mylocation .place-holder {
+    border: none;
+    background-color: #ffffff;
+    color: #424242;
+    width: 35px;
+    height: 35px;
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    display: inline-flex !important;
+    justify-content: center;
+    padding: 0px !important;
+    align-items: center;
+    margin: 0px;
+    font-size: 17px;
+
+}
+
+.jimu-widget-mylocation .place-holder:before {
+    content: "\f124";
+
+}
+
+
+.jimu-widget-zoomslider.vertical .zoom-in {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+    color: #424242;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+textarea {
+    border: 1px solid #2A4D87;
+    border-radius: 3px;
+}
+
+.jimu-widget-zoomslider.vertical .zoom-out {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+    color: #424242;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.esriControlsBR {
+    display: none;
+}
+
+.busy-indicator {
+    background-image: url("preloader.gif");
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.5);
+    z-index: 9999999999999;
+}
+
+
+.jimu-widget-zoomslider {
+    border: none;
+    line-height: 35px;
+}
+
+.jimu-widget-homebutton {
+    border: none;
+}
+
+.claro .dijitAccordionInnerContainer {
+    border: solid 0px #b5bcc7;
+    margin-bottom: 0px !important;
+}
+
+.claro .dijitAccordionContainer {
+    height: 100% !important;
+}
+
+@media screen and (max-width: 600px) {
+    .claro .dijitToolbar .dijitButton .dijitButtonText, .claro .dijitToolbar .dijitDropDownButton .dijitButtonText, .claro .dijitToolbar .dijitComboButton .dijitButtonText, .claro .dijitToolbar .dijitComboBox .dijitButtonText {
+        display: none !important;
+        margin-left: -10px !important;
+    }
+
+    .dijitToolbar .dijitButton, .dijitToolbar .dijitDropDownButton, .dijitToolbar .dijitComboButton {
+        width: 20px !important;
+        margin-left: 0px !important;
+        margin-right: 10px !important;
+    }
+
+    .claro .dijitToolbar .dijitButton .dijitButtonNode, .claro .dijitToolbar .dijitDropDownButton .dijitButtonNode, .claro .dijitToolbar .dijitComboButton .dijitButtonNode, .claro .dijitToolbar .dijitComboBox .dijitButtonNode {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        width: 20px !important;
+        min-width: 10px !important;
+    }
+
+    .claro .dijitToolbar .dijitButton .dijitIcon, .claro .dijitToolbar .dijitDropDownButton .dijitIcon, .claro .dijitToolbar .dijitComboButton .dijitIcon, .claro .dijitToolbar .dijitComboBox .dijitIcon {
+        filter: brightness(0%);
+    }
+
+    .claro .dijitToolbar .dijitButtonDisabled .dijitIcon, .claro .dijitToolbar .dijitDropDownButtonDisabled .dijitIcon, .claro .dijitToolbar .dijitComboButtonDisabled .dijitIcon, .claro .dijitToolbar .dijitComboBoxDisabled .dijitIcon {
+        filter: brightness(160%) !important
+    }
+
+    .claro .dijitToolbar .dijitButtonHover .dijitButtonNode, .claro .dijitToolbar .dijitDropDownButtonHover .dijitButtonNode, .claro .dijitToolbar .dijitComboButtonHover .dijitButtonNode, .dijitButtonNode, .claro .dijitToolbar .dijitComboBoxHover .dijitButtonNode {
+        background-color: #192D52;
+        background-image: none;
+        color: #ffffff;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        border: 0px !important;
+    }
+
+    .jimu-widget-attributetable-move {
+        display: none !important;
+    }
+
+    .jimu-widget-attributetable-switch.open {
+        width: 100vw;
+    }
+
+    .arcgisSearch {
+        width: calc(100vw - 70px) !important
+    }
+
+    .esriViewPopup .mainSection div:nth-child(3) {
+        width: 100%;
+        height: calc(40vh - 80px);
+        overflow-y: auto;
+
+    }
+
+    .esriPopup .header, .esriMobilePopupInfoView .header {
+        font-family: "Avenir Heavy";
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+}
+
+.claro .dijitAccordionContainer .dijitAccordionChildWrapper {
+    border: none;
+    margin: 0px;
+}
+
+.claro .dijitAccordionTitle {
+    height: 48px;
+    padding: 12px 7px 2px 7px;
+    font-size: 15px;
+    background-image: none !important;
+    background-color: #2A4D87;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.claro .dijitAccordionInnerContainerSelected .dijitAccordionTitle {
+    background-image: none;
+
+    background-color: #2A4D87;
+    color: #FFB718;
+}
+
+.claro .dijitAccordionInnerContainerSelected {
+    background-color: #ffffff;
+    height: auto;
+}
+
+.jimu-widget-header-controller .jimu-drop-menu {
+    background-color: black;
+}
+
+.jimu-header-more-popup {
+    background-color: #435063;
+}
+
+.jimu-header-more-popup .icon-node {
+    background-color: black;
+}
+
+.jimu-header-more-popup .close {
+    background-color: #435063;
+}
+
+.jimu-header-more-popup .close-inner {
+    background-color: black;
+}
+
+.jimu-on-screen-widget-panel > .jimu-panel-title,
+.jimu-foldable-panel > .jimu-panel-title,
+.jimu-title-panel > .title {
+    color: white;
+    background-color: #000;
+}
+
+.jimu-widget-header-controller .jimu-drop-menu .menu-item {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.jimu-widget-header-controller .jimu-drop-menu .menu-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/*ESRI*/
+.jimu-widget-basemapgallery .esriBasemapGalleryThumbnail {
+    box-shadow: none;
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+}
+
+.jimu-widget-basemapgallery .esriBasemapGallerySelectedNode {
+    color: #2A4D87;
+
+}
+
+.jimu-widget-basemapgallery .esriBasemapGallerySelectedNode .esriBasemapGalleryThumbnail {
+    border: 1px solid #ffffff;
+}
+
+.jimu-popup {
+    z-index: 12500000 !important;
+}
+
+.arcgisSearch .searchBtn {
+    height: 27px;
+    line-height: 27px;
+}
+
+
+.jimu-widget-search .arcgisSearch .searchGroup .searchInputGroup .searchInput {
+    width: 100% !important;
+}
+
+.arcgisSearch .searchClose, .arcgisSearch .searchSpinner {
+    line-height: 35px;
+}
+
+.arcgisSearch .searchGroup .searchInput {
+    height: 27px;
+}
+
+.esriPopup .titlePane {
+    background-color: black;
+}
+
+/*Select*/
+.claro .dijitSelect {
+    background-color: #ffffff;
+    border-radius: 3px;
+}
+
+.claro .dijitTextBox, .claro .dijitInputInner {
+    border-radius: 3px;
+}
+
+.claro .dijitSelect .dijitInputField {
+    padding: 0px 10px !important;
+}
+
+.claro .dijitSelect, .claro .dijitSelect .dijitButtonContents, .claro .dijitTextBox, .claro .dijitTextBox .dijitButtonNode {
+    border: 1px solid #2A4D87;
+
+}
+
+.claro .dijitSelectHover {
+    background-image: none;
+    background-color: #ffffff;
+    border: 1px solid #FFB718;
+}
+
+.claro .dijitSelectHover .dijitButtonNode {
+
+    border: 1px solid #FFB718;
+}
+
+.claro .dijitSelectHover .dijitArrowButton {
+    background-color: #ffffff !important;
+}
+
+.claro .dijitSelect .dijitArrowButton {
+    padding: 0;
+    background-color: #ffffff;
+    background-image: none;
+}
+
+.dijitComboBox .dijitArrowButtonContainer {
+    background-image: none !important;
+    background-color: #ffffff !important;
+    -webkit-font-smoothing: antialiased !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+    text-rendering: auto !important;
+    line-height: 1 !important;
+    font-weight: 900 !important;
+    font-family: 'Font Awesome 5 Free' !important;
+    font: 900 12px 'Font Awesome 5 Free' !important;
+    justify-content: center !important;
+    padding: 0px !important;
+    align-items: center !important;
+    margin: 0px !important;
+    display: inline-flex;
+}
+
+.dijitArrowButtonContainer {
+    background-image: none !important;
+    background-color: #ffffff !important;
+    -webkit-font-smoothing: antialiased !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+    text-rendering: auto !important;
+    line-height: 1 !important;
+    font-weight: 900 !important;
+    font-family: 'Font Awesome 5 Free' !important;
+    font: 900 12px 'Font Awesome 5 Free' !important;
+    justify-content: center !important;
+    padding: 0px !important;
+    align-items: center !important;
+    margin: 0px !important;
+}
+
+.dijitArrowButtonInner {
+    display: none !important;
+}
+
+.claro .dijitTextBox {
+    height: 36px;
+}
+
+.claro .dijitTextBox .dijitInputInner {
+    height: 31px;
+    line-height: 31px;
+}
+
+.claro .dijitSelect {
+    height: 36px;
+}
+
+/*.claro .dijitSelect .dijitInputField {
+    padding: 3px 10px;
+}*/
+
+/*.jimu-single-filter .dijit-form-Select > tbody > tr > td > .dijitButtonText {
+    height: initial;
+}*/
+.claro .dijitPopup {
+    z-index: 99999999999 !important;
+}
+
+.dijitArrowButtonContainer:before {
+    content: "\f0d7";
+    font-size: 16px;
+    margin-right: 5px;
+    color: #2A4D87;
+}
+
+.jimu-single-filter .dijit-form-FilteringSelect > div.dijitArrowButton.dijitDownArrowButton {
+    width: 20px;
+    height: 100%;
+    padding-left: 5px !important;
+}
+
+.claro .dijitSelect .dijitArrowButtonContainer {
+    border: none !important;
+}
+
+.claro .dijitSelect .dijitArrowButtonContainer {
+    /*border-bottom: 1px solid #2A4D87;*/
+}
+
+.dijitSelect .dijitButtonContents {
+    border: none !important;
+}
+
+.claro .dijitDropDownButtonHover .dijitButtonNode {
+    background-color: #ffffff;
+}
+
+.jimu-widget-attributetable-switch {
+    background-color: #2A4D87;
+    width: 100px;
+    height: 25px;
+    border: none;
+    top: -25px;
+}
+
+.esriBasemapGalleryLabelContainer {
+    height: 40px;
+}
+
+.esriPopup .esriPopupWrapper {
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+}
+
+.esriPopup .titlePane {
+    border-radius: 3px 3px 0px 0px;
+    line-height: 40px;
+    background-color: #2A4D87;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.esriPopup .titleButton.next {
+    right: 60px;
+    top: 8px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.esriPopup .titleButton.next:before {
+    content: '\f0da';
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.esriPopup .titleButton {
+    top: 10px;
+    background-image: none;
+
+}
+
+.esriPopup .titleButton.restore {
+    top: 12px;
+    right: 36px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.esriPopup .titleButton.restore:before {
+    content: '\f2d0';
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.esriPopup .titleButton.maximize {
+    top: 12px;
+    right: 36px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 400;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.esriPopup .titleButton.maximize:before {
+    content: '\f2d0';
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.esriPopup .titleButton.close {
+    top: 10px;
+    right: 8px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.esriPopup .titleButton.close:before {
+    content: '\f00d';
+    color: #ffffff;
+    font-size: 21px;
+}
+
+
+.esriPopup .titleButton.prev {
+    right: 85px;
+    top: 8px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.esriPopup .titleButton.prev:before {
+    content: '\f0d9';
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.esriPopupMobile {
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+    border-radius: 3px;
+}
+
+.jimu-widget-coordinate .coordinate-info {
+    color: #333333 !important;
+}
+
+.jimu-widget-coordinate .coordinate-background {
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+    border-radius: 3px;
+}
+
+.jimu-widget-coordinate .coordinate-locate {
+    filter: brightness(0);
+}
+
+.esriPopupMobile .titlePane {
+    border: none;
+    background: #ffffff;
+    color: #333333;
+    height: 80px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.esriPopupMobile .titlePane .title {
+    padding-bottom: 10px;
+}
+
+.esriPopupMobile .titleButton.next {
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 30px;
+    height: 30px;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+    margin-top: 9px;
+}
+
+.esriPopupMobile .titleButton.next:before {
+    content: '\f0da';
+    color: #333333;
+    font-size: 30px;
+}
+
+.esriPopupMobile .titleButton.prev {
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 30px;
+    height: 30px;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+    margin-top: 9px;
+}
+
+.esriPopupMobile .titleButton.prev:before {
+    content: '\f0d9';
+    color: #333333;
+    font-size: 30px;
+}
+
+.esriPopupMobile .titleButton.arrow {
+    top: 13px;
+    right: 0px;
+    width: 23px;
+    height: 32px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 400;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+
+.esriPopupMobile .titleButton.arrow:before {
+    content: '\f2d0';
+    color: #333333;
+    font-size: 17px;
+}
+
+.esriPopupMobile .titleButton.close {
+    top: 13px;
+    left: 6px;
+    width: 22px;
+    height: 32px;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.esriPopupMobile .titleButton.close:before {
+    content: '\f00d';
+    color: #333333;
+    font-size: 17px;
+}
+
+.esriMobileNavigationBar {
+    background-image: none;
+    background-color: #2A4D87;
+    bottom: 40vh !important;
+    top: initial !important;
+}
+
+.esriMobileInfoView {
+    height: 40vh !important;
+    top: initial !important;
+    bottom: 0px !important;
+    padding: 10px;
+}
+
+.arcgisSearch .searchGroup .searchInput {
+    border: none;
+    border-radius: 0px 0 0 0px;
+}
+
+.arcgisSearch .searchBtn {
+    border: none;
+    border-radius: 3px;
+}
+
+.jimu-widget-search.use-absolute .arcgisSearch .searchSubmit {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.jimu-widget-nearme .esriCTSliderText,
+.jimu-widget-nearme .esriCTSearchHeader {
+    font-size: 15px;
+}
+
+.jimu-icon-search {
+    display: none !important;
+}
+
+.esriPopup .actionList .popup-menu-button, .esriMobilePopupInfoView .esriMobileInfoViewItem .popup-menu-button {
+    height: 35px;
+    width: 35px;
+    margin-top: -20px;
+}
+
+.esriPopupMobile .titlePane .footer {
+    font-style: normal;
+}
+
+
+.esriViewPopup .mainSection .attrTable {
+    width: 100%;
+}
+
+.esriViewPopup .mainSection .attrTable td.attrName {
+    color: #333333;
+    min-width: 130px;
+    font-weight: bold;
+}
+
+.esriPopup .esriPopupWrapper {
+    width: 350px !important;
+}
+
+.esriPopup .sizer {
+    width: 100% !important;
+}
+
+.esriViewPopup .mainSection .attrTable td.attrValue {
+    color: #595959;
+}
+
+.esriPopupMobile .pointer {
+    box-shadow: inset 0 0 0 2000px rgba(255, 255, 255, 1);
+    display: none;
+}
+
+.jimu-btn-vacation {
+    border-radius: 0px !important;
+    border: 1px solid #2A4D87 !important;
+    background-color: #ffffff !important;
+    color: #2A4D87 !important;
+}
+
+::placeholder {
+    color: #898989;
+    opacity: 1;
+    font-size: 13px;
+    font-style: italic;
+    font-family: 'Open Sans' !important;
+}
+
+.jimu-btn {
+    background-color: #2A4D87;
+    color: #ffffff;
+    border-radius: 3px;
+}
+
+/*Accordion*/
+
+
+/*TextBox*/
+.claro .dijitTextBox,
+.claro .dijitInputInner {
+    font-size: 15px !important;
+    border: 1px solid #2A4D87;
+    border-color: #2A4D87;
+}
+
+.claro .dijitTextBoxHover,
+.claro .dijitTextBoxHover .dijitInputInner {
+    background-color: #ffffff !important;
+    background-image: none;
+    border: 1px solid #FFB718;
+
+}
+
+.claro .dijitTextBoxFocused {
+    border-color: #2A4D87 !important;
+}
+
+.claro .dijitTextBoxFocused,
+.claro .dijitTextBoxFocused .dijitInputInner {
+
+    border: 1px solid #FFB718;
+    box-shadow: none;
+}
+
+/*CheckBox*/
+.claro .dijitCheckBox.dijitCheckBoxChecked {
+    border: 2px solid #2A4D87;
+    background-image: none;
+}
+
+.emSwitch .dijitButtonNode {
+    width: 40px;
+    border: none;
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+    background-color: #ffffff;
+}
+
+.emSwitch .dijitButtonNode:before {
+    content: "\f204";
+    color: #2A4D87;
+    font-size: 25px;
+}
+
+.emSwitchChecked .dijitButtonNode:before {
+    content: "\f205";
+    font-size: 25px;
+    color: #FFB718;
+}
+
+/*
+.jimu-checkbox .checkbox .jimu-icon-checked:before {
+    content: "\f205";
+    font-size: 25px;
+    color: #FFB718;
+}
+
+.jimu-checkbox .checkbox {
+    background-image: none;
+}
+
+.jimu-checkbox .checkbox .jimu-icon {
+    width: 40px;
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+    background-color: transparent;
+}
+
+.jimu-checkbox .checkbox .jimu-icon:before {
+    content: "\f204";
+    color: #2A4D87;
+    font-size: 25px;
+}*/
+
+.jimu-checkbox {
+    cursor: pointer !important;
+}
+
+.jimu-checkbox > .jimu-icon {
+    height: 33px;
+    width: 40px;
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+    background-color: transparent;
+}
+
+.jimu-checkbox > .jimu-icon:before {
+    content: "\f204";
+    color: #2A4D87;
+    font-size: 25px;
+}
+
+.jimu-checkbox > .jimu-icon-checked {
+    height: 33px;
+    width: 40px;
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+    background-color: transparent;
+}
+
+.jimu-checkbox > .jimu-icon-checked:before {
+    content: "\f205";
+    font-size: 25px;
+    color: #FFB718;
+}
+
+
+.jimu-widget-layerList .showLegend-div {
+    display: none;
+}
+
+.jimu-widget-coordinate .coordinate-background {
+    line-height: 27px;
+    font-size: 16px;
+    color: #fff;
+}
+
+.jimu-widget-coordinate .coordinate-locate-container,
+.jimu-widget-coordinate .coordinate-locate {
+    width: 27px;
+    height: 27px;
+}
+
+.jimu-widget-layerList .div-select {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.jimu-widget-layerList .layers-list-popupMenu-div {
+    margin-right: 5px;
+    height: 47px;
+}
+
+
+.claro .dijitCheckBox.dijitCheckBoxChecked input {
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 16px;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.dijitCheckBoxInput {
+    opacity: 1;
+    background-image: none;
+    -webkit-appearance: initial;
+}
+
+.claro .dijitCheckBox.dijitCheckBoxChecked input:before {
+    content: "\f00c";
+    color: #2A4D87;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.claro .dijitCheckBox {
+    background-image: none;
+    border: 2px solid #2A4D87;
+    width: 20px;
+    height: 20px;
+}
+
+.dijitCheckBox, .dijitCheckBoxInput {
+    width: 24px;
+    height: 24px;
+}
+
+/*RadioBox*/
+.claro .dijitRadio input {
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 400;
+    display: inline-flex;
+    font-family: 'Font Awesome 5 Free' !important;
+    justify-content: center;
+    padding: 0px !important;
+    align-items: center;
+    margin: 0px;
+}
+
+.claro .dijitRadio input:before {
+    content: "\f111";
+    color: #2A4D87;
+    font-size: 18px;
+
+}
+
+.claro .dijitRadio {
+
+    background-image: none;
+}
+
+
+.claro .dijitRadio, .dijitRadio input {
+    width: 18px !important;
+    height: 18px !important;
+}
+
+.claro .dijitRadio.dijitRadioChecked input {
+    background-color: #ffffff;
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 400;
+    display: inline-flex;
+    font-family: 'Font Awesome 5 Free' !important;
+    justify-content: center;
+    padding: 0px !important;
+    align-items: center;
+    margin: 0px;
+}
+
+.claro .dijitRadio.dijitRadioChecked input:before {
+    content: "\f058";
+    color: #2A4D87;
+    font-size: 18px;
+
+}
+
+/*Slider*/
+.claro .dijitSliderV {
+    background-color: #2A4D87
+}
+
+.claro .dijitSlider .dijitSliderProgressBarV,
+.claro .dijitSlider .dijitSliderBottomBumper {
+    background-color: #2A4D87;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.claro .dijitSlider .dijitSliderProgressBarH,
+.claro .dijitSlider .dijitSliderLeftBumper {
+    background-color: #FFB718;
+    border-color: #FFB718;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+
+.claro .dijitSlider .dijitSliderRemainingBarH,
+.claro .dijitSlider .dijitSliderRightBumper {
+    background-color: #ffffff;
+    border-color: #2A4D87;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.claro .dijitSlider .dijitSliderProgressBarH,
+.claro .dijitSlider .dijitSliderLeftBumper {
+    border-color: #2A4D87;
+    background-color: #2A4D87;
+    background-image: none;
+}
+
+.claro .dijitSliderHover .dijitSliderProgressBarH,
+.claro .dijitSliderHover .dijitSliderLeftBumper {
+    background-color: #FFB718;
+    border-color: #FFB718;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.claro .dijitSliderHover .dijitSliderRemainingBarV,
+.claro .dijitSliderHover .dijitSliderTopBumper {
+    background-color: #ffffff;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.claro .dijitSliderHover .dijitSliderRemainingBarH,
+.claro .dijitSliderHover .dijitSliderRightBumper {
+    background-color: #ffffff;
+    border-color: #FFB718;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.claro .dijitSliderImageHandleH {
+    border: 0;
+    background-color: #2A4D87;
+    width: 18px;
+    height: 24px;
+    background-image: none;
+    left: 50%;
+    top: -11px;
+}
+
+/*Menu*/
+.claro .dijitMenu {
+    background-color: #ffffff;
+    border: 0px solid #759dc0;
+}
+
+.claro .dijitMenuBar .dijitMenuItem {
+    padding: 6px 10px 7px;
+    margin: -1px;
+}
+
+.jimu-widget-search .arcgisSearch .searchMenu {
+    background-color: #ffffff;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+}
+
+.jimu-widget-search .arcgisSearch .searchMenu li {
+    padding: 10px;
+    border-width: 1px 0 1px 0;
+    border-style: solid;
+    border-color: #ffffff;
+}
+
+.jimu-widget-search .arcgisSearch .searchMenu li.active,
+.jimu-widget-search .arcgisSearch .searchMenu li:hover {
+    border-color: #2A4D87;
+    background-color: #2A4D87;
+    color: #ffffff;
+}
+
+.claro .dijitMenu .dijitMenuItem td,
+.claro .dijitComboBoxMenu .dijitMenuItem {
+    padding: 10px;
+    border-width: 1px 0 1px 0;
+    border-style: solid;
+    border-color: #ffffff;
+}
+
+select {
+    font-size: 15px;
+    padding: 10px;
+    height: 35px;
+    background: #ffffff;
+    border: 1px solid #2A4D87;
+    border-radius: 3px !important;
+}
+
+.claro .dijitMenu .dijitMenuItemHover td,
+.claro .dijitMenu .dijitMenuItemSelected td,
+.claro .dijitMenuItemHover,
+.claro .dijitComboBoxMenu .dijitMenuItemHover,
+.claro .dijitMenuItemSelected {
+    border-color: #2A4D87;
+    background-color: #2A4D87;
+    color: #ffffff;
+    background-image: none;
+}
+
+.claro .dijitMenu .dijitMenuItem .dijitIcon {
+
+    filter: brightness(0%);
+}
+
+.claro .dijitMenu .dijitMenuItemHover .dijitIcon,
+.claro .dijitMenu .dijitMenuItemSelected .dijitIcon {
+    filter: brightness(1000);
+}
+
+.claro .dijitMenuItemActive {
+    background-color: #2A4D87;
+    background-image: none;
+}
+
+/*Grid*/
+.claro .dojoDndItemAnchor, .claro .dojoDndItemSelected, .claro .dojoDndItemOver {
+    background-image: none;
+    background-color: #FFB718;
+    color: #333333;
+    border: 1px solid #FFB718;
+    color: #ffffff;
+}
+
+.dgrid-scroller {
+    margin-top: 37px !important;
+}
+
+.dgrid-row:hover {
+    background-color: #FFB718 !important;
+    color: #ffffff;
+}
+
+.dgrid-cell-padding {
+    padding: 9px !important;
+}
+
+.jimu-widget-attributetable .dgrid-column-selectionHandle.selection-handle-column {
+    background-color: #ffffff;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: 'Font Awesome 5 Free' !important;
+    justify-content: center;
+    padding: 0px !important;
+    align-items: center;
+    margin: 0px;
+}
+
+.jimu-widget-attributetable .dgrid-column-selectionHandle.selection-handle-column:before {
+    content: "\f0c8";
+    color: #333333;
+    margin-left: 4px;
+    font-size: 12px;
+}
+
+.jimu-widget-attributetable .ui-state-active .dgrid-column-selectionHandle.selection-handle-column {
+    background-color: #FFB718 !important;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 30px;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    justify-content: center;
+    padding: 0px !important;
+    align-items: center;
+    margin: 0px;
+}
+
+.jimu-widget-attributetable .ui-state-active .dgrid-column-selectionHandle.selection-handle-column:before {
+    content: "\f00c";
+    color: #ffffff;
+    margin-left: 4px;
+    font-size: 12px;
+}
+
+.jimu-widget-attributetable .ui-state-active {
+    background-color: #FFB718 !important;
+    color: #ffffff;
+}
+
+/*ToogleButton*/
+.claro .dijitButton .dijitButtonNode,
+.claro .dijitToggleButton .dijitButtonNode {
+    border-radius: 3px;
+
+}
+
+.claro .dijitButton .dijitIcon,
+.claro .dijitToggleButton .dijitIcon {
+    filter: initial;
+}
+
+.claro .dijitButtonHover .dijitIcon,
+.claro .dijitToggleButtonHover .dijitIcon {
+    filter: brightness(1000);
+}
+
+
+.claro .dijitButtonHover .dijitButtonNode,
+.claro .dijitToggleButtonHover .dijitButtonNode,
+.claro .dijitToggleButtonChecked .dijitButtonNode {
+    background-image: none !important;
+    background-color: #2A4D87 !important;
+    border: 1px solid transparent !important;
+
+}
+
+.jimu-widget-attributetable .dijitToggleButton.dijitToggleButtonHover .dijitButtonText,
+.jimu-widget-attributetable .dijitButton.dijitButtonHover .dijitButtonText {
+    color: #ffffff !important;
+    font-family: 'Open Sans' !important;
+}
+
+.jimu-widget-attributetable .dijitToggleButton.dijitToggleButtonChecked .dijitButtonText {
+    color: #ffffff !important;
+    font-family: 'Open Sans' !important;
+}
+
+.dijitToolbar .dijitButtonContents {
+    padding: 5px 7px;
+}
+
+/*TabContainer*/
+
+.claro .dijitTab {
+    border: 0px solid #b5bcc7;
+    background-color: #ffffff;
+    -webkit-transition-property: background-color, border;
+    -moz-transition-property: background-color, border;
+    transition-property: background-color, border;
+    -webkit-transition-duration: 0.35s;
+    -moz-transition-duration: 0.35s;
+    transition-duration: 0.35s;
+    color: #2A4D87;
+    font-family: 'Open Sans';
+}
+
+.claro .dijitTabHover {
+
+    background-color: #ffffff;
+    -webkit-transition-duration: 0.25s;
+    -moz-transition-duration: 0.25s;
+    transition-duration: 0.25s;
+    color: #2A4D87;
+    border-bottom: 1px solid #FFB718;
+}
+
+.claro .dijitTabActive {
+    border-bottom: 1px solid #FFB718;
+    background-color: #ffffff;
+    color: #2A4D87;
+    -webkit-transition-duration: 0.1s;
+    -moz-transition-duration: 0.1s;
+    transition-duration: 0.1s;
+}
+
+.claro .dijitTabChecked {
+    border-bottom: 1px solid #FFB718;
+    background-color: #ffffff;
+    color: #2A4D87;
+}
+
+.claro .dijitTabDisabled {
+    background-color: #d3d3d3;
+}
+
+.claro .tabStripButton {
+    background-color: transparent;
+    border: none;
+}
+
+.claro .dijitTabContainerTop-tabs .dijitTab {
+
+    background-color: #ffffff;
+    padding-top: 3px;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-bottom: 3px;
+    vertical-align: middle;
+    font-size: 18px;
+    color: #2A4D87;
+    border: none;
+    margin-right: -1px;
+    border-bottom: 1px inset #2A4D87;
+    background-image: none;
+}
+
+.claro .dijitTabContainerTop-tabs .dijitTabChecked {
+    margin-right: -1px;
+    border-bottom: 1px inset #FFB718;
+    background-color: #ffffff;
+    color: #2A4D87;
+
+    padding-top: 3px;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-bottom: 3px;
+    vertical-align: middle;
+    font-size: 18px;
+    background-image: none;
+}
+
+.claro .dijitTabContainerTop-dijitContentPane, .claro .dijitTabContainerLeft-dijitContentPane, .claro .dijitTabContainerBottom-dijitContentPane, .claro .dijitTabContainerRight-dijitContentPane, .claro .dijitAccordionContainer-dijitContentPane {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.dijitTabContainerTop-tabs {
+    background-color: #ffffff;
+    border-bottom: 1px inset #2A4D87 !important;
+}
+
+.claro .dijitTabPaneWrapper {
+    border-color: transparent;
+
+}
+
+.dijitToolbar .dijitButtonContents {
+    padding: initial !important;
+}
+
+.claro .dijitToolbar .dijitDropDownButton .dijitButtonNode {
+    height: 35px;
+    padding-top: 5px;
+}
+
+.dijitToolbar .dijitDropDownButton {
+
+}
+
+.claro .dijitToolbar .dijitButton .dijitButtonNode, .claro .dijitToolbar .dijitDropDownButton .dijitButtonNode, .claro .dijitToolbar .dijitComboButton .dijitButtonNode, .claro .dijitToolbar .dijitToggleButton .dijitButtonNode, .claro .dijitToolbar .dijitComboBox .dijitButtonNode {
+    background-color: #ffffff;
+    color: #333333;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.jimu-btn:hover {
+    background-color: #192D52;
+}
+
+.claro .dijitToolbar .dijitButtonDisabled .dijitButtonText, .claro .dijitToolbar .dijitDropDownButtonDisabled .dijitButtonText, .claro .dijitToolbar .dijitComboButtonDisabled .dijitButtonText, .claro .dijitToolbar .dijitComboBoxDisabled .dijitButtonText {
+    color: #8e8e8e;
+}
+
+.claro .dijitToolbar .dijitButtonDisabled .dijitIcon, .claro .dijitToolbar .dijitDropDownButtonDisabled .dijitIcon, .claro .dijitToolbar .dijitComboButtonDisabled .dijitIcon, .claro .dijitToolbar .dijitComboBoxDisabled .dijitIcon {
+    filter: brightness(160%) !important
+}
+
+.claro .dijitToolbar .dijitButton .dijitIcon, .claro .dijitToolbar .dijitDropDownButton .dijitIcon, .claro .dijitToolbar .dijitComboButton .dijitIcon, .claro .dijitToolbar .dijitToggleButton .dijitIcon, .claro .dijitToolbar .dijitComboBox .dijitIcon {
+    filter: brightness(0%);
+}
+
+.claro .dijitToolbar .dijitButtonHover .dijitIcon, .claro .dijitToolbar .dijitDropDownButtonHover .dijitIcon, .claro .dijitToolbar .dijitComboButtonHover .dijitIcon, .claro .dijitToolbar .dijitToggleButtonHover .dijitIcon, .claro .dijitToolbar .dijitComboBoxHover .dijitIcon {
+    filter: brightness(1000);
+}
+
+
+.dijitToolbar .dijitToggleButton, .dijitToolbar .dijitButton, .dijitToolbar .dijitDropDownButton, .dijitToolbar .dijitComboButton {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.claro .dijitToolbar .dijitButton .dijitButtonText, .claro .dijitToolbar .dijitDropDownButton .dijitButtonText, .claro .dijitToolbar .dijitComboButton .dijitButtonText, .claro .dijitToolbar .dijitToggleButton .dijitButtonText, .claro .dijitToolbar .dijitComboBox .dijitButtonText {
+    margin-left: 4px;
+}
+
+.claro .dijitToolbar .dijitButtonHover .dijitButtonNode, .claro .dijitToolbar .dijitDropDownButtonHover .dijitButtonNode, .claro .dijitToolbar .dijitComboButtonHover .dijitButtonNode, .claro .dijitToolbar .dijitToggleButtonHover .dijitButtonNode, .claro .dijitToolbar .dijitComboBoxHover .dijitButtonNode {
+    background-color: #192D52;
+    background-image: none;
+    color: #ffffff;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    border: 0px !important;
+}
+
+.add-with-icon {
+    color: #2A4D87;
+}
+
+.jimu-popup {
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+    border-radius: 3px;
+
+}
+
+.jimu-widget-onscreen-icon {
+    background-color: #2A4D87;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 5px 0px;
+    border-radius: 3px;
+    padding-left: 1px !important;
+    padding-top: 1px !important;
+
+}
+
+.jimu-widget-onscreen-icon:hover,
+.jimu-widget-onscreen-icon.jimu-state-selected {
+    background-color: #192D52;
+}
+
+.jimu-icon-close {
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.jimu-icon-close:before {
+    content: '\f00d';
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.add-with-icon .add-label {
+    font-size: 15px;
+}
+
+.jimu-icon-add {
+    background-image: none;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free' !important;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.jimu-icon-add:before {
+    content: '\f067';
+    color: #2A4D87;
+    font-size: 16px;
+}
+
+.jimu-popup > .title {
+    background-color: #2A4D87;
+    color: #ffffff;
+    padding: 0px;
+    margin: 0px;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.jimu-filter .allExpsBox {
+    background: none;
+}
+
+.claro .dijitToolbar .dijitToggleButtonChecked .dijitButtonNode {
+    background-color: #192D52 !important;
+    font-family: 'Open Sans';
+    color: #ffffff !important;
+}
+
+/*
+Button*/
+.claro .dijitButton .dijitButtonNode,
+.claro .dijitToggleButton .dijitButtonNode {
+    /* rules for the dijit.form.*Button widgets (see also ComboButton section below) */
+    border: 0px solid #336699 !important;
+    padding-top: 6px !important;
+    padding-right: 4px !important;
+    padding-left: 4px !important;
+    padding-bottom: 6px !important;
+    border-radius: 0px;
+    box-shadow: none;
+    min-width: 90px;
+    width: 100%;
+    background-color: #2A4D87;
+    font-family: 'Open Sans';
+    color: #ffffff;
+    background-image: none;
+    margin: 0px;
+    height: 35px;
+}
+
+
+.claro .dijitButtonHover .dijitButtonNode,
+.claro .dijitToggleButtonHover .dijitButtonNode {
+    border: 0px solid #336699 !important;
+    padding-top: 6px !important;
+    padding-right: 4px !important;
+    padding-left: 4px !important;
+    padding-bottom: 6px !important;
+    background-color: #192D52 !important;
+    font-family: 'Open Sans';
+    color: #ffffff;
+    -webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    margin: 0px;
+    height: 35px;
+}
+
+
+.claro .dijitToggleButtonChecked .dijitButtonText {
+    color: #878a8c;
+}
+
+.claro .dijitButton .dijitButtonText,
+.claro .dijitButtonHover .dijitButtonText {
+    padding: 0px !important;
+    text-align: center;
+}
+

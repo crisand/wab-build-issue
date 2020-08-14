@@ -1,0 +1,5 @@
+{
+  "registry": "https://registry.bower.io",
+  "directory": "build-src",
+  "allow_root": true
+}
