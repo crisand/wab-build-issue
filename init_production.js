@@ -72,9 +72,9 @@ var ie = (function () {
 
     /*jshint unused:false*/
     var hasOptions = { 'extend-esri': 1 };
-    //if (!window.isMobileUa) {
-    hasOptions['esri-featurelayer-webgl'] = 1; //enable webgl
-    //}
+    if (!window.isMobileUa) {
+      hasOptions['esri-featurelayer-webgl'] = 1; //enable webgl
+    }
     dojoConfig = {
       parseOnLoad: false,
       async: true,
